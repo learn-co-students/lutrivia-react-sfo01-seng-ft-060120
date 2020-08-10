@@ -21,7 +21,7 @@ export default {
             answer: true
         },
         {
-            text: "There are only three existing otter species: sea otter, ",
+            text: "There are only three existing otter species: sea otter, river otter, and land otter.",
             answer: false
         },
         {
